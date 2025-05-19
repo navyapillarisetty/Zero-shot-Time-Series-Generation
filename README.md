@@ -1,5 +1,5 @@
-# Zero-shot-Time-Series-Generation
-Zero-shot Time series Generation by Statistically Assisted Models 
+# Zero-shot-Time-Series-Forecasting
+Zero-Shot Time-Series Forecasting by Statistically Assisted Models 
 
 Abstract
 
